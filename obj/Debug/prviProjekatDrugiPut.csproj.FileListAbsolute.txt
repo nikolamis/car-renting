@@ -1,0 +1,40 @@
+D:\projekattvp13h\prviProjekatDrugiPut\bin\Debug\prviProjekatDrugiPut.exe.config
+D:\projekattvp13h\prviProjekatDrugiPut\bin\Debug\prviProjekatDrugiPut.exe
+D:\projekattvp13h\prviProjekatDrugiPut\bin\Debug\prviProjekatDrugiPut.pdb
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.csprojAssemblyReference.cache
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.Properties.Resources.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.csproj.GenerateResource.cache
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.csproj.CoreCompileInputs.cache
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.exe
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.pdb
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.Logovanje.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmRegAdmin.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmRegKupac.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdmin.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmKupac.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmRezervacija.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminAutomobili.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminKupac.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminPonuda.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminRezervacije.resources
+D:\projekattvp13h\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.q.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\bin\Debug\prviProjekatDrugiPut.exe.config
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\bin\Debug\prviProjekatDrugiPut.exe
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\bin\Debug\prviProjekatDrugiPut.pdb
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.csprojAssemblyReference.cache
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdmin.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminAutomobili.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminKupac.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminPonuda.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmAdminRezervacije.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmKupac.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmRegAdmin.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmRegKupac.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.frmRezervacija.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.Logovanje.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.Properties.Resources.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.q.resources
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.csproj.GenerateResource.cache
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.csproj.CoreCompileInputs.cache
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.exe
+C:\Users\mirko\Desktop\projekti za git\prviProjekatDrugiPut\obj\Debug\prviProjekatDrugiPut.pdb
